@@ -11,4 +11,4 @@ ecenter.py -> creates a list containing multiple instances of the Movie class wh
 fresh_tomatoes.py -> has a method that takes in a list of Movie class objects and creates a web page with information for every movie in the list. Each movie has the poster image with movie title and year, which, on mouseover, shows the plot. On clicking the image, the YouTube trailer is played as a modal window.
 
 To run this project, download the three .py files and run "python ecenter.py" in Terminal.
-Alternatively, open the fresh_tomatoes.html file to see the results.
+Alternatively, open the fresh_tomatoes.html file in a browser to see the results.
